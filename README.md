@@ -13,12 +13,7 @@ Describe briefly in 2-3 sentences what your project is about. About 250 characte
 
 ## Background
 
-Which problems does your idea solve? How common or frequent is this problem? What is your personal motivation? Why is this topic important or interesting?
-
-This is how you make a list, if you need one:
-* problem 1
-* problem 2
-* etc.
+Building AI is a free online course where you’ll learn about the actual algorithms that make creating AI methods possible. Some basic Python programming skills are recommended to get the most out of the course.
 
 
 ## How is it used?
